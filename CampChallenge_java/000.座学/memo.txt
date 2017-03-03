@@ -1,0 +1,6 @@
+ Pcスペック
+ クロック数　2.7GHz Intel core i7
+　メモリ　16GB
+ ハードディスク　1TB
+ グラフィックス　Intel HD Graphics530
+
