@@ -1,0 +1,5 @@
+2.7GHz
+Intel core i7
+メモリ　16GB
+ハードディスク1TB
+グラフィックス　Intel HD Graphics530
